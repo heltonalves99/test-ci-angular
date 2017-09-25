@@ -1,5 +1,8 @@
 # TestCI
 
+[![Build Status](https://travis-ci.org/ricmclaughlin/angTravis.svg?branch=master)](https://travis-ci.org/ricmclaughlin/angTravis)
+[![Coverage Status](https://coveralls.io/repos/github/ricmclaughlin/angTravis/badge.svg?branch=master)](https://coveralls.io/github/ricmclaughlin/angTravis?branch=master)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
 ## Development server
