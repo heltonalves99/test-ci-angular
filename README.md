@@ -1,7 +1,7 @@
 # TestCI
 
-[![Build Status](https://travis-ci.org/ricmclaughlin/angTravis.svg?branch=master)](https://travis-ci.org/ricmclaughlin/angTravis)
-[![Coverage Status](https://coveralls.io/repos/github/ricmclaughlin/angTravis/badge.svg?branch=master)](https://coveralls.io/github/ricmclaughlin/angTravis?branch=master)
+[![Build Status](https://travis-ci.org/heltonalves99/test-ci-angular.svg?branch=master)](https://travis-ci.org/heltonalves99/test-ci-angular)
+[![Coverage Status](https://coveralls.io/repos/github/heltonalves99/test-ci-angular/badge.svg?branch=master)](https://coveralls.io/github/heltonalves99/test-ci-angular?branch=master)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
