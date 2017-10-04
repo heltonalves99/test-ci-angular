@@ -7,5 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
-  ownerName = 'Helton Alves';
+  anotherTitle = 'another-test';
+
+  public showOnerName (): string {
+    return 'Helton Alves';
+  }
+
+  public testString (): string {
+    return 'Another String';
+  }
 }
